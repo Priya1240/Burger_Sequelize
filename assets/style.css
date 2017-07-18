@@ -1,0 +1,9 @@
+body {
+    background-color: grey;
+    color: black;
+}
+
+addburger{
+    border-style: solid;
+    border-color: blue;
+}

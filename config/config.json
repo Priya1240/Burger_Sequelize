@@ -1,0 +1,20 @@
+{
+    "development": {
+	"username": "root",
+	"password": "20arya16",
+	"database": "burgers_db",
+	"host": "127.0.0.1",
+	"dialect": "mysql"
+    },
+    "test": {
+	"username": "root",
+	"password": "20arya16",
+	"database": "burgers_db",
+	"host": "127.0.0.1",
+	"dialect": "mysql"
+    },
+    "production": {
+	"use_env_variable": null,
+	"dialect": "mysql"
+    }
+}

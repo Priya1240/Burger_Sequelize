@@ -1,0 +1,29 @@
+{
+  "name": "burger_sequelize",
+  "version": "1.0.0",
+  "description": "Burger app using sequelize",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.9",
+    "mysql": "^2.13.0",
+    "sequelize": "^3.30.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Priya1240/Burger_Sequelize.git"
+  },
+  "author": "Priya Iyar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Priya1240/Burger_Sequelize/issues"
+  },
+  "homepage": "https://github.com/Priya1240/Burger_Sequelize#readme"
+}
